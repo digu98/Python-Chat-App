@@ -1,7 +1,7 @@
 # Python Chat App
 
 ## Overview
-This project is a currently work-in-progress, "proof-of-concept" end-to-end encrypted chat app, written in python
+This project is a currently work-in-progress, "proof-of-concept" end-to-end encrypted chat app, written in Python
 
 | Written in               | OS                    |
 | ------------------------ | --------------------- |
