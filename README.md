@@ -6,9 +6,9 @@ This project is a currently work-in-progress, "proof-of-concept" end-to-end encr
 | Written in               | OS                    |
 | ------------------------ | --------------------- |
 | Work in progress         | Compatible with       |
-| [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() |
+| [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() [Not currently tested, in theory] [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() |
 | Planned version(s)       | Planned compatibility |
-| [![C#](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)]() | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() |
+| [![CSharp](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)]() | ___ [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() |
 
 ## How it works
 The app uses basic hashed-password authentication and 2FA solutions in order to access a channel (every password an 2FA code is UNIQUE to the channel!).
